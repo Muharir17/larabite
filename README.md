@@ -1,7 +1,7 @@
 # 🚀 Larabite - Laravel Admin Template
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Livewire-3.x-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
   <img src="https://img.shields.io/badge/Tailwind_CSS-4.x-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Flowbite-3.x-1C64F2?style=for-the-badge&logo=flowbite&logoColor=white" alt="Flowbite">
@@ -161,8 +161,8 @@ larabite/
 ## 🎨 Tech Stack
 
 ### Backend
-- **Laravel 11.x** - PHP framework
-- **Livewire 3.x** - Full-stack framework for Laravel
+- **Laravel 12.x** - PHP framework (v12.37.0)
+- **Livewire 3.x** - Full-stack framework for Laravel (v3.6)
 - **PHP 8.2+** - Modern PHP features
 
 ### Frontend
