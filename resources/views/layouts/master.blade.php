@@ -18,7 +18,7 @@
 <body class="bg-gray-50 dark:bg-gray-900">
     
     {{-- Navbar Component --}}
-    @include('partials.navbar')
+    @livewire('partials.navbar')
 
     {{-- Sidebar Component --}}
     @include('partials.sidebar')
@@ -26,7 +26,7 @@
     {{-- Main Content --}}
     <div class="p-4 sm:ml-64">
         <div class="p-4 mt-14">
-            @yield('content')
+            {{ $slot }}
         </div>
     </div>
 

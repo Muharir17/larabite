@@ -20,7 +20,7 @@
         </svg>
     </button>
 
-    @yield('content')
+    {{ $slot }}
 
     <script>
         const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
