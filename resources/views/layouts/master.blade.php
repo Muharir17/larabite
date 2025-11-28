@@ -30,6 +30,9 @@
         </div>
     </div>
 
+    {{-- Confirmation Modal Component --}}
+    @livewire('components.confirmation-modal')
+
     {{-- JavaScript --}}
     @include('partials.scripts')
     
